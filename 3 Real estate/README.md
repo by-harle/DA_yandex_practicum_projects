@@ -50,6 +50,9 @@
 
 <br>
 
+### ER-диаграмма базы данных
+<img width="2880" height="1548" alt="image_1738083790" src="https://github.com/user-attachments/assets/33dac8f1-d543-43fb-b441-35f6b9263e1e" />
+
 
 
 ## Задачи
@@ -60,4 +63,4 @@
 - Доработка дашборда заказчика.
 
 ## Используемые инструменты
-SQL, Yandex DataLens
+`SQL`, `Yandex DataLens`
